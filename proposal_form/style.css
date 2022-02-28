@@ -1,0 +1,253 @@
+.container {
+  width: 70%;
+  margin: auto;
+  background-color: white;
+  padding: 12px;
+}
+body {
+  background-color: grey;
+}
+
+#bankLogo img {
+  width: 200px;
+  height: 170px;
+}
+.heading h2 {
+  width: 25%;
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#table table {
+  width: 80%;
+}
+#table {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.photograph {
+  margin-top: 32px;
+  margin-left: 25px;
+  width: 17%;
+  height: 250px;
+  border: 1.5px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  padding: 5px;
+}
+.photograph p {
+  margin: auto;
+}
+.section1 {
+  background-color: rgb(255 153 80);
+}
+.section1 h3 {
+  text-align: center;
+}
+.firstColumn {
+  width: 60%;
+  display: flex;
+  /* border: 2px solid black; */
+  /* justify-content: space-between; */
+}
+.firstColumn label {
+  width: 60%;
+  /* width: 60%; */
+  /* background-color: brown; */
+}
+.firstColumn .dash {
+  width: 47%;
+  /* border: 2px solid coral; */
+}
+.firstColumn .inputs {
+  width: 33%;
+}
+.secondColumn {
+  width: 100%;
+  display: flex;
+}
+.secondColumn label {
+  width: 30%;
+  /* width: 60%; */
+  /* background-color: brown; */
+}
+.secondColumn .dash {
+  width: 47%;
+  /* border: 2px solid coral; */
+}
+.secondColumn .inputs {
+  width: 33%;
+}
+
+.thirdColumn {
+  width: 60%;
+  display: flex;
+}
+.thirdColumn label {
+  width: 60%;
+  /* width: 60%; */
+  /* background-color: brown; */
+}
+.thirdColumn .dash {
+  width: 47%;
+  /* border: 2px solid coral; */
+}
+.thirdColumn .inputs {
+  width: 33%;
+}
+.fourthColumn {
+  width: 60%;
+  display: flex;
+}
+.fourthColumn label {
+  width: 60%;
+  /* width: 60%; */
+  /* background-color: brown; */
+}
+.fourthColumn .dash {
+  width: 47%;
+  /* border: 2px solid coral; */
+}
+.fourthColumn .inputs {
+  width: 33%;
+}
+.fifthColumn {
+  width: 60%;
+  display: flex;
+}
+.fifthColumn label {
+  width: 60%;
+  /* width: 60%; */
+  /* background-color: brown; */
+}
+.fifthColumn .dash {
+  width: 47%;
+  /* border: 2px solid coral; */
+}
+.fifthColumn .inputs {
+  width: 33%;
+}
+.sixthColumn {
+  width: 60%;
+  display: flex;
+}
+.sixthColumn label {
+  width: 60%;
+  /* width: 60%; */
+  /* background-color: brown; */
+}
+.sixthColumn .dash {
+  width: 47%;
+  /* border: 2px solid coral; */
+}
+.sixthColumn .inputs {
+  width: 33%;
+}
+/* .thirdColumn{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.thirdColumn label{
+    width: 40%;
+    background-color: aqua;
+}
+.thirdColumn .inputs{
+    width: 60%;
+    background-color: aquamarine;
+} */
+/* .inputs{
+    display: flex;
+    justify-content: space-between;
+} */
+.fourthColumn {
+  width: 60%;
+  display: flex;
+}
+#secondSection {
+  display: flex;
+  justify-content: space-between;
+}
+#secondSection div {
+  width: 33%;
+  /* border: 2px solid black; */
+}
+#thirdSection ol {
+  margin-left: px;
+}
+#fourthSection {
+  display: flex;
+  justify-content: space-between;
+}
+#fifthSection {
+  display: flex;
+  justify-content: space-between;
+}
+#fifthSection div {
+  font-weight: bold;
+  width: 50%;
+  /* border: 2px solid black; */
+}
+#sixthSection {
+  display: flex;
+  justify-content: space-between;
+}
+#sixthSection div {
+  /* font-weight: bold; */
+  width: 50%;
+  /* border: 2px solid black; */
+}
+#seventhSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+#eightSection {
+  display: flex;
+  justify-content: space-between;
+}
+#eightSection div {
+  /* font-weight: bold; */
+  /* border: 2px solid black; */
+}
+#ninthSection {
+  display: flex;
+  justify-content: space-between;
+}
+#ninthSection div {
+  /* font-weight: bold; */
+  /* border: 2px solid black; */
+}
+#income {
+  display: flex;
+  justify-content: space-between;
+}
+#income div {
+  /* font-weight: bold; */
+  width: 50%;
+  /* border: 2px solid black; */
+}
+
+#proofs {
+  display: flex;
+  justify-content: space-between;
+}
+#proofs div {
+  /* font-weight: bold; */
+  width: 50%;
+  /* border: 2px solid black; */
+}
+#KYC {
+  display: flex;
+  justify-content: space-between;
+}
+#KYC div {
+  /* border: 2px solid black; */
+}
