@@ -54,17 +54,12 @@ td {
 .firstColumn {
   width: 60%;
   display: flex;
-  /* border: 2px solid black; */
-  /* justify-content: space-between; */
 }
 .firstColumn label {
   width: 60%;
-  /* width: 60%; */
-  /* background-color: brown; */
 }
 .firstColumn .dash {
   width: 47%;
-  /* border: 2px solid coral; */
 }
 .firstColumn .inputs {
   width: 33%;
@@ -75,12 +70,9 @@ td {
 }
 .secondColumn label {
   width: 30%;
-  /* width: 60%; */
-  /* background-color: brown; */
 }
 .secondColumn .dash {
   width: 47%;
-  /* border: 2px solid coral; */
 }
 .secondColumn .inputs {
   width: 33%;
@@ -92,12 +84,9 @@ td {
 }
 .thirdColumn label {
   width: 60%;
-  /* width: 60%; */
-  /* background-color: brown; */
 }
 .thirdColumn .dash {
   width: 47%;
-  /* border: 2px solid coral; */
 }
 .thirdColumn .inputs {
   width: 33%;
@@ -108,12 +97,9 @@ td {
 }
 .fourthColumn label {
   width: 60%;
-  /* width: 60%; */
-  /* background-color: brown; */
 }
 .fourthColumn .dash {
   width: 47%;
-  /* border: 2px solid coral; */
 }
 .fourthColumn .inputs {
   width: 33%;
@@ -124,12 +110,9 @@ td {
 }
 .fifthColumn label {
   width: 60%;
-  /* width: 60%; */
-  /* background-color: brown; */
 }
 .fifthColumn .dash {
   width: 47%;
-  /* border: 2px solid coral; */
 }
 .fifthColumn .inputs {
   width: 33%;
@@ -140,33 +123,13 @@ td {
 }
 .sixthColumn label {
   width: 60%;
-  /* width: 60%; */
-  /* background-color: brown; */
 }
 .sixthColumn .dash {
   width: 47%;
-  /* border: 2px solid coral; */
 }
 .sixthColumn .inputs {
   width: 33%;
 }
-/* .thirdColumn{
-    width: 80%;
-    display: flex;
-    justify-content: space-between;
-}
-.thirdColumn label{
-    width: 40%;
-    background-color: aqua;
-}
-.thirdColumn .inputs{
-    width: 60%;
-    background-color: aquamarine;
-} */
-/* .inputs{
-    display: flex;
-    justify-content: space-between;
-} */
 .fourthColumn {
   width: 60%;
   display: flex;
@@ -177,7 +140,6 @@ td {
 }
 #secondSection div {
   width: 33%;
-  /* border: 2px solid black; */
 }
 #thirdSection ol {
   margin-left: px;
@@ -193,16 +155,13 @@ td {
 #fifthSection div {
   font-weight: bold;
   width: 50%;
-  /* border: 2px solid black; */
 }
 #sixthSection {
   display: flex;
   justify-content: space-between;
 }
 #sixthSection div {
-  /* font-weight: bold; */
   width: 50%;
-  /* border: 2px solid black; */
 }
 #seventhSection {
   display: flex;
@@ -214,25 +173,19 @@ td {
   justify-content: space-between;
 }
 #eightSection div {
-  /* font-weight: bold; */
-  /* border: 2px solid black; */
 }
 #ninthSection {
   display: flex;
   justify-content: space-between;
 }
 #ninthSection div {
-  /* font-weight: bold; */
-  /* border: 2px solid black; */
 }
 #income {
   display: flex;
   justify-content: space-between;
 }
 #income div {
-  /* font-weight: bold; */
   width: 50%;
-  /* border: 2px solid black; */
 }
 
 #proofs {
@@ -240,14 +193,11 @@ td {
   justify-content: space-between;
 }
 #proofs div {
-  /* font-weight: bold; */
   width: 50%;
-  /* border: 2px solid black; */
 }
 #KYC {
   display: flex;
   justify-content: space-between;
 }
 #KYC div {
-  /* border: 2px solid black; */
 }
