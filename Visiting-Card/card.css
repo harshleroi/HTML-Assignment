@@ -1,0 +1,50 @@
+.mt-20 {
+    margin-top: 5rem;
+}
+
+.ml-20 {
+    margin-left: 5rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.space-x-12 > * + * {
+    margin-left: 3rem;
+}
+
+.p-6 {
+    padding: 1.5rem;
+}
+
+.w-40 {
+    width: 10rem;
+}
+
+.h-40 {
+    height: 10rem;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.mb-4 {
+    margin-bottom: 1rem;
+}
+
+.border {
+    border-width: 2px;
+    border-radius: 0.25rem;
+    border-color: rgb(209 213 219);
+}
+
+.bg-slate {
+    background-color: rgb(241 245 249);
+}
+
+.w-fit {
+    width: fit-content;
+}
